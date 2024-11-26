@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1732608500 source:c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\src\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1732608738 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\animal.h
+	<string>
+
+1732611094 source:c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\main.cpp
+	"Zoo.h"
+	<iostream>
+
+1732608915 source:c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\src\mammal.cpp
+	"Mammal.h"
+	<iostream>
+
+1732608902 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\mammal.h
+	"Animal.h"
+	<string>
+
+1732609031 source:c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\src\bird.cpp
+	"Bird.h"
+	<iostream>
+
+1732609020 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\bird.h
+	"Animal.h"
+	<string>
+
+1732609141 source:c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\src\reptile.cpp
+	"Reptile.h"
+	<iostream>
+
+1732609129 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\reptile.h
+	"Animal.h"
+	<string>
+
+1732610931 source:c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\src\zoo.cpp
+	"Zoo.h"
+	<iostream>
+	<algorithm>
+	<unordered_map>
+
+1732610277 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\zoo.h
+	<string>
+	<vector>
+	"Animal.h"
+	"Mammal.h"
+	"Bird.h"
+	"Reptile.h"
+	"KNN.h"
+	"KNNDouble.h"
+	"KNNString.h"
+
+1732609663 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\knn.h
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+
+1732611437 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\knndouble.h
+	<iostream>
+	<vector>
+	<cmath>
+	<utility>
+
+1732611453 c:\users\hp\documents\ensisa\informatique\c++\tp\examen\zoo\include\knnstring.h
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
